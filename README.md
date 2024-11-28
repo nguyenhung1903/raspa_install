@@ -1,4 +1,4 @@
-# Install the RASPA3 on the Ubuntu run on the Windows Subsystem for Linux (WSL)
+# Install RASPA3 on Ubuntu running on Windows Subsystem for Linux (WSL)
 ## 1. Install the WSL on the Windows 10
 - [Install the WSL on the Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install)
 ## 2. Install the Ubuntu on the WSL
